@@ -6,4 +6,4 @@ zmgtest5
 zmgtest6
 zmgtest8
 
-zmgtest9
+testzmg9
